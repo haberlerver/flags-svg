@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-2100 -1470 4200 2940" width="1200" height="675">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+     viewBox="-2100 -1470 4200 2940" width="1200" height="675" 
+     preserveAspectRatio="xMidYMid slice">
   <defs>
     <path id="i" fill-rule="evenodd" d="M-31.5 0h33a30 30 0 0030-30v-10a30 30 0 00-30-30h-33zm13-13h19a19 19 0 0019-19v-6a19 19 0 00-19-19h-19z"/>
     <path id="n" d="M-15.75-22C-15.75-15-9-11.5 1-11.5s14.74-3.25 14.75-7.75c0-14.25-46.75-5.25-46.5-30.25C-30.5-71-6-70 3-70s26 4 25.75 21.25H13.5c0-7.5-7-10.25-15-10.25-7.75 0-13.25 1.25-13.25 8.5-.25 11.75 46.25 4 46.25 28.75C31.5-3.5 13.5 0 0 0c-11.5 0-31.55-4.5-31.5-22z"/>
@@ -35,7 +37,6 @@
       <path d="M28 0c0-10 0-32-15-32H-6c22 0 22 22 22 32"/>
     </g>
   </defs>
-
   <rect y="-50%" x="-50%" height="100%" fill="#009b3a" width="100%"/>
   <path d="M-1743 0L0 1113 1743 0 0-1113z" fill="#fedf00"/>
   <circle r="735" fill="#002776"/>
