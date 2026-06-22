@@ -1,8 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <!-- Kırmızı arka plan -->
   <rect width="1200" height="675" fill="#E30A17"/>
-  <g transform="translate(450,337.5)">
-    <circle r="150" fill="none" stroke="#FFFFFF" stroke-width="18"/>
-    <circle r="120" fill="#E30A17" transform="translate(60,0)"/>
-    <polygon points="130,0 95,-57 65,-57 78,-35 50,-15 78,-5 95,0 78,5 50,15 78,35 65,57 95,57" fill="#FFFFFF" transform="translate(0,0)"/>
-  </g>
+  
+  <!-- Ay: Dış çember (beyaz) -->
+  <circle cx="450" cy="337.5" r="150" fill="#FFFFFF"/>
+  <!-- Ay: İç çember (kırmızı, ayın şeklini oluşturur) -->
+  <circle cx="510" cy="337.5" r="126" fill="#E30A17"/>
+  
+  <!-- Beş köşeli yıldız: tam ve düzgün -->
+  <polygon points="
+    615,300
+    627,337
+    667,337
+    636,360
+    648,400
+    615,378
+    582,400
+    594,360
+    563,337
+    603,337
+  " fill="#FFFFFF"/>
 </svg>
